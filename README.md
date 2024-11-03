@@ -7,8 +7,8 @@ Soy Oscar Rodriguez, un apasionado de la tecnología y actualmente estoy cursand
 
 ## 💻 Lenguajes y Tecnologías
 
- ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  |
- ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+ ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -22,7 +22,7 @@ Soy Oscar Rodriguez, un apasionado de la tecnología y actualmente estoy cursand
 ---
 
 ## Objetivos
-- 🌱 Actualmente aprendiendo: **Java**
+- 🌱 Actualmente aprendiendo: **Java** he empezado con la **Programacion Orientada a Objetos** en este lenguaje de forma personal y todavia no entiendo todo
 
 ---
 
