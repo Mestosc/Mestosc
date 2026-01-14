@@ -24,8 +24,6 @@ Aqui estaran los lenguajes que uso a nivel del ciclo que estoy estudiando en la 
 <!-- Para mostrar los lenguajes más usados, puedes usar: -->
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mestosc&layout=compact&theme=radical)
 
-[![Oscar stats](https://github-readme-stats.vercel.app/api?username=Mestosc)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## Objetivos
