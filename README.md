@@ -39,4 +39,4 @@ Aqui estaran los lenguajes que uso a nivel del ciclo que estoy estudiando en la 
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
