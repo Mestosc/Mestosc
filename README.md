@@ -1,5 +1,7 @@
 # ¡Hola! 👋
 
+![Banner about me](github-header-banner.png)
+
 ## Sobre mí
 Soy Oscar, un apasionado de la tecnología y actualmente estoy cursando un Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Estoy enfocado en mejorar mis habilidades en programación, en especial en **Java**. Estoy aprendiendo Java en el ciclo y Python(aunque lo aprenderemos en el ciclo a partir de segundo) lo estoy aprendiendo un poco por mi cuenta, esta es la cuenta que uso para los trabajos del ciclo, tengo otra de uso personal
 
